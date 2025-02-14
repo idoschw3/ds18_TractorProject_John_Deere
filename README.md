@@ -66,7 +66,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn joblib
 
 Run the script with:
 ```bash
-python main.py
+tractor project.ipynb
 ```
 
 ---
